@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeliRodz
 - 👀 I’m interested in learning additional skills of Data Analysis and Data Science. 
-- 🌱 I’m currently learning Python and taking the Data Analyst course from IBM in Coursera. 
+
 
 
 <!---
